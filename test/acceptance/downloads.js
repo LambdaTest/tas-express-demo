@@ -44,7 +44,6 @@ describe('downloads', function(){
         .expect(403, done)
     })
   })
-})
 
   describe('[Duplicate] GET /files/../index.js', function () {
     it('should respond with 403', function (done) {
