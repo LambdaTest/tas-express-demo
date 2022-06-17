@@ -24,7 +24,7 @@ describe('downloads', function(){
     it('should have a download header', function(done){
       request(app)
       .get('/files/amazing.txt')
-      .expect('Content-Disposition', 'attachment; filename="amazing.txt1"')
+      .expect('Content-Disposition', 'attachment; filename="amazing.txt"')
       .expect(200, done)
     })
   })
