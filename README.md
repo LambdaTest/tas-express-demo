@@ -24,6 +24,11 @@ With TestMu AI (Formerly LambdaTest), you can express Demo for TestMu AI (Former
 - Node.js and npm (latest stable)
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 ## Installation
 
 This is a [Node.js](https://nodejs.org/en/) module available through the
