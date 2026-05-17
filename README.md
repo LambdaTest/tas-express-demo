@@ -7,31 +7,17 @@
 
 ## Getting Started
 
-TestMu AI is the world's first fully autonomous Agentic AI Quality Engineering Platform, enabling you to run your Express tests at scale with intelligent automation, real-time insights, and seamless CI/CD integration.
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks.
 
-This is an Express.js demo for TestMu AI (Formerly LambdaTest), showcasing how to run Express-based tests on the platform.
+With TestMu AI (Formerly LambdaTest), you can express Demo for TestMu AI (Formerly LambdaTest) across real browsers and operating systems.
 
 - [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
-[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
+### Prerequisites
 
-  Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
-
-  [![NPM Version][npm-version-image]][npm-url]
-  [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
-  [![NPM Downloads][npm-downloads-image]][npm-downloads-url]
-
-```js
-const express = require('express')
-const app = express()
-
-app.get('/', function (req, res) {
-  res.send('Hello World')
-})
-
-app.listen(3000)
-```
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
 
 ## Installation
 
