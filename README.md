@@ -9,9 +9,9 @@
 
 TestMu AI is the world's first fully autonomous Agentic AI Quality Engineering Platform, enabling you to run your Express tests at scale with intelligent automation, real-time insights, and seamless CI/CD integration.
 
-This is an Express.js demo for TestMu AI (Formerly TestMu AI (Formerly LambdaTest)), showcasing how to run Express-based tests on the platform.
+This is an Express.js demo for TestMu AI (Formerly LambdaTest), showcasing how to run Express-based tests on the platform.
 
-- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly TestMu AI (Formerly LambdaTest)).
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
 - Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
@@ -181,15 +181,15 @@ The current lead maintainer is [Douglas Christopher Wilson](https://github.com/d
 [npm-url]: https://npmjs.org/package/express
 [npm-version-image]: https://badgen.net/npm/v/express
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community
+## TestMu AI (Formerly LambdaTest) Community
 
 Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Certifications
+## TestMu AI (Formerly LambdaTest) Certifications
 
 Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-## Learning Resources by TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
+## Learning Resources by TestMu AI (Formerly LambdaTest)
 
 Learn modern testing through tutorials, guides, videos, and weekly updates:
 
